@@ -10,5 +10,14 @@
 	<atom:link href="http://umaaaaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About Me</title>
+      <link>http://umaaaaa.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://umaaaaa.github.io/about/</guid>
+      <description> Work  Kurakata Ningyo Co.Ltd  Engineering  Perl Python Node.js Vue.js MySQL AWS  Hobby  i☆Ris MilkyHolmes Car(Honda Civic FK2)  </description>
+    </item>
+    
   </channel>
 </rss>
